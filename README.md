@@ -1,22 +1,3 @@
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-<style>
-#des
- {
-  color:red; 
-  text-align: center;
- }
-</style>
-<h1 id="des">This is a Heading</h1>
-<p id="des">This is a paragraph.</p>
-
-</body>
-</html>
 <!DOCTYPE html>
 <html>
 <head>
